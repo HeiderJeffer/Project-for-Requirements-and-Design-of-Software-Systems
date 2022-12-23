@@ -1,4 +1,4 @@
-# Project for Requirements and Design of Software
+# Requirements and Design of Software Systems
 * University of Bolzano - Faculty of Computer Science
 * Systems 2016/2017
 * Prof. Gabriella Dodero
