@@ -1,6 +1,7 @@
 # Requirements and Design of Software Systems
 * University of Bolzano - Faculty of Computer Science
 * Systems 2016/2017
+* Prepared by: Heider Jeffer and Marco Pomalo
 * Prof. Gabriella Dodero
 * Project
 * E-CV1217 System
@@ -9,5 +10,4 @@
 * Part 3: slide presentation
 
 * Date(s): January,24 2017
-* Prepared by: Heider Jeffer and Marco Pomalo
 * Document status: Proposed
