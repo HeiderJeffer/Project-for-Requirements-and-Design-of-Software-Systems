@@ -24,7 +24,7 @@
 * Based on the requirements document.
 
 * System consist of 5 different Components:
-  *  Web Application Server + Database Server
+  * Web Application Server + Database Server
   * Web Application
   * Internet Browser
   * Home Application
@@ -61,10 +61,10 @@
 ![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/1.PNG)
 
 # Views: Process View
-![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/5.PNG)
+![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/2.PNG)
 
 # Views: Logical View
-![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/2.PNG)
+
 ![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/3.PNG)
 
 # Views: Development View
