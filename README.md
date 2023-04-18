@@ -64,7 +64,7 @@
 ![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/2.PNG)
 
 # Views: Logical View
-
+![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/5.PNG)
 ![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/3.PNG)
 
 # Views: Development View
