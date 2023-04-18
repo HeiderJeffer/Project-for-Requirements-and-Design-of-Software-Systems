@@ -11,3 +11,23 @@
 
 * Date(s): January,24 2017
 * Document status: Proposed
+
+# E-CV1217 An Electronic Portfolio (Curriculum Vitae) for Teenagers
+# The Design Document
+* Introduction and Scope of the Project
+* Quality requirements
+* Views
+## Introduction and Scope
+* Especially thought for school dropouts
+(European Project for School Dropouts).
+
+* Based on the requirements document.
+
+* System consist of 5 different Components:
+
+** Web Application Server + Database Server
+** Web Application
+** Internet Browser
+** Home Application
+** Mobile Application
+
