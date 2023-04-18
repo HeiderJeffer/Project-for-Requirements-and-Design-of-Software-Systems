@@ -49,14 +49,14 @@
 # Views
 
 * Design and Architectural Patterns.
- * Client/Server
- * MVC (Model View Controller)
+     * Client/Server
+     * MVC (Model View Controller)
 
 * Models and Diagrams:
- * Physical view ⇒ Hw Components Diagram
- * Process View ⇒ Process Diagram
- * Logical view ⇒ Data Models, Class Diag.
- * Development View ⇒ Components Diagram
+     * Physical view ⇒ Hw Components Diagram
+     * Process View ⇒ Process Diagram
+     * Logical view ⇒ Data Models, Class Diag.
+     * Development View ⇒ Components Diagram
 
 
 
