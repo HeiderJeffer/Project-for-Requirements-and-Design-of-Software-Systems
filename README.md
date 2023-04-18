@@ -60,6 +60,19 @@
 
 
 # Views: Physical View
-## School System
+## School System and Complete System
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/1.PNG)
+
+
+
+# Views: Process View
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/2.PNG)
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/3.PNG)
+# Views: Development View
+![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/4.PNG)
+
+
+
+
 
 
