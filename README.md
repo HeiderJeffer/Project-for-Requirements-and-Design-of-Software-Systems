@@ -47,11 +47,9 @@
 
 
 # Views
-
 * Design and Architectural Patterns.
      * Client/Server
      * MVC (Model View Controller)
-
 * Models and Diagrams:
      * Physical view ⇒ Hw Components Diagram
      * Process View ⇒ Process Diagram
@@ -60,12 +58,12 @@
 
 
 # Views: Physical View
-## School System and Complete System
 ![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/1.PNG)
 
-
-
 # Views: Process View
+![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/5.PNG)
+
+# Views: Logical View
 ![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/2.PNG)
 ![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/3.PNG)
 
