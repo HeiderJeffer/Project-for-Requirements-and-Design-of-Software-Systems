@@ -61,15 +61,16 @@
 
 # Views: Physical View
 ## School System and Complete System
-![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/1.PNG)
+![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/1.PNG)
 
 
 
 # Views: Process View
-![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/2.PNG)
-![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/3.PNG)
+![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/2.PNG)
+![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/3.PNG)
+
 # Views: Development View
-![image](https://github.com/HeiderJeffer/Project-for-Human-Machine-Interaction/blob/main/image/4.PNG)
+![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/4.PNG)
 
 
 
