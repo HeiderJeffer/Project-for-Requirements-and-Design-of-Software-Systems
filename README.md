@@ -24,10 +24,9 @@
 * Based on the requirements document.
 
 * System consist of 5 different Components:
-
-** Web Application Server + Database Server
-** Web Application
-** Internet Browser
-** Home Application
-** Mobile Application
+  *  Web Application Server + Database Server
+  * Web Application
+  * Internet Browser
+  * Home Application
+  * Mobile Application
 
