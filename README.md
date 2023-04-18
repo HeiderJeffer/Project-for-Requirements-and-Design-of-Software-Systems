@@ -17,7 +17,7 @@
 * Introduction and Scope of the Project
 * Quality requirements
 * Views
-## Introduction and Scope
+# Introduction and Scope
 * Especially thought for school dropouts
 (European Project for School Dropouts).
 
@@ -29,4 +29,24 @@
   * Internet Browser
   * Home Application
   * Mobile Application
+
+# Quality Requirements: Security
+
+* The data are protected against unauthorized access.
+* Database and Files are encrypted with AES-256.
+* The access to the Server from the Internet is denied.
+* The Home Application works only offline.
+* The Mobile Application can work offline and even online only if connected to the school network.
+
+
+
+
+
+
+
+
+
+
+
+
 
