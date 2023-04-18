@@ -39,10 +39,11 @@
 * The Mobile Application can work offline and even online only if connected to the school network.
 
 
-
-
-
-
+# Quality Requirements: Usability
+* Animated icons showing the purpose of the command.
+* Tooltips.
+* Specific usability patterns especially for the Mobile Application.
+* Recognition before Recall principle.
 
 
 
