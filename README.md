@@ -193,13 +193,9 @@ This product is composed of five different components:
 <tbody>
 <tr class="odd">
 <td><ol type="1">
-<li><blockquote>
-<p><strong>WAS</strong>: Web Application Server running the web
-application <strong>WA</strong>.</p>
-</blockquote></li>
-<li><blockquote>
-<p><strong>DS</strong>: Database Server.</p>
-</blockquote></li>
+<li><p><strong>WAS</strong>: Web Application Server running the web
+application <strong>WA</strong>.</p></li>
+<li><p><strong>DS</strong>: Database Server.</p></li>
 </ol></td>
 <td>System Administrator by using guided installation procedure.</td>
 <td>Centralised Server connected to school network.</td>
@@ -272,19 +268,11 @@ at the same time.
 <tr class="even">
 <td>CENTRALISED SERVER</td>
 <td><ul>
-<li><blockquote>
-<p>At least a 3GHz dual core processor</p>
-</blockquote></li>
-<li><blockquote>
-<p>At least 8GB of RAM</p>
-</blockquote></li>
-<li><blockquote>
-<p>A Gigabit network adapter</p>
-</blockquote></li>
-<li><blockquote>
-<p>At least a RAID 5 Data Storage System but a RAID 6 is recommended. It
-is able to store at least 10TB of data.</p>
-</blockquote></li>
+<li><p>At least a 3GHz dual core processor</p></li>
+<li><p>At least 8GB of RAM</p></li>
+<li><p>A Gigabit network adapter</p></li>
+<li><p>At least a RAID 5 Data Storage System but a RAID 6 is
+recommended. It is able to store at least 10TB of data.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -322,23 +310,15 @@ System Vendors.
 <tr class="even">
 <td>SCHOOL CLIENT</td>
 <td><ul>
-<li><blockquote>
-<p>At least 1.5GHz dual core processor</p>
-</blockquote></li>
-<li><blockquote>
-<p>At least 4GB of RAM</p>
-</blockquote></li>
+<li><p>At least 1.5GHz dual core processor</p></li>
+<li><p>At least 4GB of RAM</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>HOME CLIENT</td>
 <td><ul>
-<li><blockquote>
-<p>At least 40GB of disk space</p>
-</blockquote></li>
-<li><blockquote>
-<p>Network adapter for the School client.</p>
-</blockquote></li>
+<li><p>At least 40GB of disk space</p></li>
+<li><p>Network adapter for the School client.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -370,10 +350,8 @@ System Vendors.
 <tr class="even">
 <td>MOBILE DEVICE</td>
 <td><ul>
-<li><blockquote>
-<p>At least the minimal hardware requirements suggested from the
-Operating System Vendors.</p>
-</blockquote></li>
+<li><p>At least the minimal hardware requirements suggested from the
+Operating System Vendors.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -405,14 +383,10 @@ Operating System Vendors.</p>
 <tr class="even">
 <td>SCHOOL NETWORK</td>
 <td><ul>
-<li><blockquote>
-<p>At least a Cat. 5e infrastructure, a Gigabit network is
-recommended.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Optionally a WIFI Access Point for the access from mobile
-devices.</p>
-</blockquote></li>
+<li><p>At least a Cat. 5e infrastructure, a Gigabit network is
+recommended.</p></li>
+<li><p>Optionally a WIFI Access Point for the access from mobile
+devices.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -453,31 +427,21 @@ respect of european and national privacy laws regarding underage people.
 <tr class="even">
 <td>OS</td>
 <td><ul>
-<li><blockquote>
-<p>Ubuntu 14 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Windows server 2012 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Mac OSX 10.10.</p>
-</blockquote></li>
+<li><p>Ubuntu 14 or newer.</p></li>
+<li><p>Windows server 2012 or newer.</p></li>
+<li><p>Mac OSX 10.10.</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>DS</td>
 <td><ul>
-<li><blockquote>
-<p>PostgreSQL Server</p>
-</blockquote></li>
+<li><p>PostgreSQL Server</p></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>WAS</td>
 <td><ul>
-<li><blockquote>
-<p>Tomcat Server</p>
-</blockquote></li>
+<li><p>Tomcat Server</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -511,29 +475,17 @@ respect of european and national privacy laws regarding underage people.
 <tr class="even">
 <td>OS</td>
 <td><ul>
-<li><blockquote>
-<p>Ubuntu 14 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Windows 8.1 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Mac OSX 10.10.</p>
-</blockquote></li>
+<li><p>Ubuntu 14 or newer.</p></li>
+<li><p>Windows 8.1 or newer.</p></li>
+<li><p>Mac OSX 10.10.</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Browser</td>
 <td><ul>
-<li><blockquote>
-<p>Chrome version 55 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Mozilla Firefox version 48 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Safari version 10.0 or newer.</p>
-</blockquote></li>
+<li><p>Chrome version 55 or newer.</p></li>
+<li><p>Mozilla Firefox version 48 or newer.</p></li>
+<li><p>Safari version 10.0 or newer.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -568,15 +520,9 @@ be installed on the home computer by the student.
 <tr class="even">
 <td>OS</td>
 <td><ul>
-<li><blockquote>
-<p>Ubuntu 14 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Windows 8.1 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Mac OSX 10.10.</p>
-</blockquote></li>
+<li><p>Ubuntu 14 or newer.</p></li>
+<li><p>Windows 8.1 or newer.</p></li>
+<li><p>Mac OSX 10.10.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -610,15 +556,9 @@ The MA will be obtained from the OS Vendor Application Store.
 <tr class="even">
 <td>OS</td>
 <td><ul>
-<li><blockquote>
-<p>iOS 8 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Android 5.0 or newer.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Windows 10 Mobile.</p>
-</blockquote></li>
+<li><p>iOS 8 or newer.</p></li>
+<li><p>Android 5.0 or newer.</p></li>
+<li><p>Windows 10 Mobile.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -1074,7 +1014,7 @@ The graphical explanation is the same of Section 4.3 and Section 4.4.
 - Purpose:
 
   - Allow Students only to connect to the server and to use server
-    > functionalities within school network.
+    functionalities within school network.
 
   - Allow to manage, import/export an E-Portfolio.
 
@@ -1341,29 +1281,29 @@ style="width:5.14465in;height:4.77125in" />
 - Privacy
 
   - All the technical choices are made according to the european and
-    > national privacy law regarding underage people. This is one of the
-    > major keypoint of this product.
+    national privacy law regarding underage people. This is one of the
+    major keypoint of this product.
 
 - Database
 
   - The PostgreSQL Database ensures high security because it is able to
-    > manage encryption of data.
+    manage encryption of data.
 
 - Web Application
 
   - A Web application gives many advantages:
 
     - The client only needs an internet browser installed and a network
-      > connection.This is one of the cheapest solutions for a client.
+      connection.This is one of the cheapest solutions for a client.
 
     - The Server can run the web application and the database together,
-      > so only one server is needed. It is very easy to transfer the
-      > database to another server if needed in the future.
+      so only one server is needed. It is very easy to transfer the
+      database to another server if needed in the future.
 
 - MVC Pattern
 
   - The three layers of MVC allow to perform following example actions
-    > on one layer without affecting the other two layers:
+    on one layer without affecting the other two layers:
 
     - Change or improve the GUI to enhance usability.
 
@@ -1374,14 +1314,14 @@ style="width:5.14465in;height:4.77125in" />
 - Mobile Application
 
   - Smartphones and Tablets are very popular under teenagers. A part of
-    > their life is on the mobile device, so the decision to embed a
-    > mobile application in the system. The responsive design is not
-    > really usable for all the mobile devices, we decided for a native
-    > application that can work online when connected to the school
-    > network and offline when not. This allow to update the E-Portfolio
-    > directly on the Server when at school. Outside the school network
-    > the application work offline in the same way of the standalone
-    > application that can be installed on the home computer.
+    their life is on the mobile device, so the decision to embed a
+    mobile application in the system. The responsive design is not
+    really usable for all the mobile devices, we decided for a native
+    application that can work online when connected to the school
+    network and offline when not. This allow to update the E-Portfolio
+    directly on the Server when at school. Outside the school network
+    the application work offline in the same way of the standalone
+    application that can be installed on the home computer.
 
 # Glossary
 
