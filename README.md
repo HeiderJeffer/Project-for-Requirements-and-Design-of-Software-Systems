@@ -57,4 +57,23 @@
 ## Views: Physical View
 <img src="./img/1.PNG"
 />
-https://github.com/HeiderJeffer/Requirements-and-Design-of-Software-Systems/blob/main/img/1.PNG
+
+## Views: Process View
+<img src="./img/2.PNG"
+/>
+
+## Views: Logical View
+<img src="./img/3.PNG"
+/>
+<img src="./img/4.PNG"
+/>
+
+## Views: Development View
+<img src="./img/5.PNG"
+/>
+
+
+
+
+
+
