@@ -1,77 +1,175 @@
-# Requirements and Design of Software Systems
-* University of Bolzano - Faculty of Computer Science
-* Systems 2016/2017
-* Prepared by: Heider Jeffer and Marco Pomalo
-* Prof. Gabriella Dodero
-* Project
-* E-CV1217 System
-* Part 1: Requirements Document (version 2.0)
-* Part 2: Architecture and Design Document (version 2.0)
-* Part 3: slide presentation
+<img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />
 
-* Date(s): January,24 2017
-* Document status: Proposed
+**E-CV1217**
 
-# E-CV1217 An Electronic Portfolio (Curriculum Vitae) for Teenagers
-# The Design Document
-* Introduction and Scope of the Project
-* Quality requirements
-* Views
-# Introduction and Scope
-* Especially thought for school dropouts
-(European Project for School Dropouts).
+**An Electronic Portfolio (Curriculum Vitae)**
 
-* Based on the requirements document.
+**for Teenagers**
 
-* System consist of 5 different Components:
-  * Web Application Server + Database Server
-  * Web Application
-  * Internet Browser
-  * Home Application
-  * Mobile Application
+> **The Design Document**
 
-# Quality Requirements: Security
+1
 
-* The data are protected against unauthorized access.
-* Database and Files are encrypted with AES-256.
-* The access to the Server from the Internet is denied.
-* The Home Application works only offline.
-* The Mobile Application can work offline and even online only if connected to the school network.
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Roadmap 
 
+- INTRODUCTION AND SCOPE OF THE PROJECT
 
-# Quality Requirements: Usability
-* Animated icons showing the purpose of the command.
-* Tooltips.
-* Specific usability patterns especially for the Mobile Application.
-* Recognition before Recall principle.
+- QUALITY REQUIREMENTS
 
+- VIEwS
 
-# Views
-* Design and Architectural Patterns.
-     * Client/Server
-     * MVC (Model View Controller)
-* Models and Diagrams:
-     * Physical view ⇒ Hw Components Diagram
-     * Process View ⇒ Process Diagram
-     * Logical view ⇒ Data Models, Class Diag.
-     * Development View ⇒ Components Diagram
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 2
+>
+> by Heider Jeffer and Marco Pomalo
 
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Introduction and Scope 
 
-# Views: Physical View
-![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/1.PNG)
+- ESPECIALLY THOUGHT FOR SCHOOL DROPOUTS (EUROPEAN PROJECT FOR SCHOOL
+  > DROPOUTS).
 
-# Views: Process View
-![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/2.PNG)
+- BASED ON THE REQUIREMENTS DOCUMENT.
 
-# Views: Logical View
-![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/5.PNG)
-![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/3.PNG)
+- SYSTEM CONSIST OF 5 DIFFERENT COMPONENTS:
 
-# Views: Development View
-![image](https://github.com/HeiderJeffer/Project-for-Requirements-and-Design-of-Software-Systems/blob/main/img/4.PNG)
+  - WEB APPLICATION SERvER + DATABASE SERvER
 
+  - WEB APPLICATION
 
+  - INTERNET BROwSER
 
- 
+  - HOME APPLICATION
 
+  - MOBILE APPLICATION
 
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 3
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Quality Requirements: Security 
+
+- THE DATA ARE PROTECTED AGAINST UNAUTHORIZED ACCESS.
+
+- DATABASE AND FILES ARE ENCRYPTED wITH AES-256.
+
+- THE ACCESS TO THE SERvER FROM THE INTERNET IS DENIED.
+
+- THE HOME APPLICATION wORkS ONLY OFFLINE.
+
+- THE MOBILE APPLICATION CAN wORk OFFLINE AND EvEN ONLINE ONLY IF
+  > CONNECTED TO THE SCHOOL NETwORk.
+
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 4
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Quality Requirements: Usability 
+
+- ANIMATED ICONS SHOwING THE PURPOSE OF THE COMMAND.
+
+- TOOLTIPS.
+
+- SPECIFIC USABILITY PATTERNS ESPECIALLY FOR THE MOBILE APPLICATION.
+
+- RECOGNITION BEFORE RECALL PRINCIPLE.
+
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 5
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Views 
+
+- DESIGN AND ARCHITECTURAL PATTERNS.
+
+  - CLIENT/SERvER
+
+  - MVC (MODEL VIEw CONTROLLER)
+
+- MODELS AND DIAGRAMS:
+
+  - PHYSICAL vIEw ⇒ Hw COMPONENTS DIAGRAM
+
+  - PROCESS VIEw ⇒ PROCESS DIAGRAM
+
+  - LOGICAL vIEw ⇒ DATA MODELS, CLASS DIAG.
+
+  - DEvELOPMENT VIEw ⇒ COMPONENTS DIAGRAM
+
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 6
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Views: Physical View 
+
+SCHOOL SYSTEM COMPLETE SYSTEM
+
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 7
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Views: Process View 
+
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 8
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Views: Logical View 
+
+> DATA MODEL: XML FILE
+>
+> DATA MODEL: DATABASE
+>
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 9
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Views: Logical View 
+
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 10
+>
+> by Heider Jeffer and Marco Pomalo
+
+# <img src="./images/media/image1.jpeg"
+style="width:10in;height:5.625in" />![](./images/media/image2.jpeg) Views: Development View 
+
+> Requirements and Design of Software Systems
+>
+> Design Document of E-CV1217 System 11
+>
+> by Heider Jeffer and Marco Pomalo
+
+<img src="./images/media/image12.jpeg"
+style="width:10in;height:5.625in" />
+
+Thank You
+
+For Your Attention
+
+12
