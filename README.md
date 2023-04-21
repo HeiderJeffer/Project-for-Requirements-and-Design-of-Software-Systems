@@ -969,8 +969,8 @@ style="width:4.89973in;height:7.8575in" />
 The image below shows the schematic E-Portfolio data in a tree like XML
 structure.
 
-<img src="./images/media/image5.png"
-style="width:3.69264in;height:6.58073in" />
+<img src="./images/media/image5.jpeg"
+style="width:3.69444in;height:6.58333in" />
 
 # Architectural Views
 
