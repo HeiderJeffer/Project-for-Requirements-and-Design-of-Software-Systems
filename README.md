@@ -29,3 +29,27 @@
 	- Internet Browser
 	- Home Application
 	- Mobile Application
+	
+# Quality Requirements: Security
+- The data are protected against unauthorized access.
+- Database and Files are encrypted with AES-256.
+- The access to the Server from the Internet is denied.
+- The Home Application works only offline.
+- The Mobile Application can work offline and even online only if connected to the school network.
+
+# Quality Requirements: Usability
+- Animated icons showing the purpose of the command.
+- Tooltips.
+- Specific usability patterns especially for the Mobile Application.
+- Recognition before Recall principle.
+
+# Views
+- Design and Architectural Patterns.
+	- Client/Server
+	- MVC (Model View Controller)
+
+- Models and Diagrams:
+	- Physical view       - Hw Components Diagram
+	- Process View       - Process Diagram
+	- Logical view     - Data Models, Class Diag.
+	- Development View  - Components Diagram
