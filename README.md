@@ -16,3 +16,16 @@
 * Date(s): February,4 2017
 * Prepared by: Heider Jeffer and Marco Pomalo
 * Document status: Proposed
+
+# Introduction and Scope
+- Especially thought for school dropouts
+(European Project for School Dropouts).
+
+- Based on the requirements document.
+
+- System consist of 5 different Components:
+	- Web Application Server + Database Server
+	- Web Application
+	- Internet Browser
+	- Home Application
+	- Mobile Application
