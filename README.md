@@ -1,5 +1,3 @@
-<img src="./images/media/image1.jpeg"
-style="width:10in;height:5.625in" />
 
 **E-CV1217**
 
