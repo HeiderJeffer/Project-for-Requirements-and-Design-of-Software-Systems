@@ -49,10 +49,10 @@
 	- MVC (Model View Controller)
 
 - Models and Diagrams:
-	- Physical view       	- Hw Components Diagram
-	- Process View       		- Process Diagram
-	- Logical view     		- Data Models, Class Diag.
-	- Development View  		- Components Diagram
+	* Physical view       	* Hw Components Diagram
+	* Process View       		* Process Diagram
+	* Logical view     		* Data Models, Class Diag.
+	* Development View  		* Components Diagram
 	
 ## Views: Physical View
 <img src="./img/1.PNG"
